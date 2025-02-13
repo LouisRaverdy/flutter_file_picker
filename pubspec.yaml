@@ -12,8 +12,9 @@ dependencies:
     sdk: flutter
 
   flutter_plugin_android_lifecycle:
-    git: https://github.com/LouisRaverdy/packages
-    path: packages/flutter_plugin_android_lifecycle
+    git: 
+      url: https://github.com/LouisRaverdy/packages
+      path: packages/flutter_plugin_android_lifecycle
 
   plugin_platform_interface: ^2.1.8
   ffi: ^2.1.3
